@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Axiom](https://axiom.co)
 
-- 💬 Ask me about **Data-structures, Databases, Algorithms**
+- 💬 Ask me about **Data-Structures, DBs, Algorithms**
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
