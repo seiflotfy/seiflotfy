@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Lotfy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Forest gumping my way building real-time analytics optimised databases, storages and platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seiflotfy&label=Profile%20views&color=0e75b6&style=flat" alt="seiflotfy" /> </p>
 
